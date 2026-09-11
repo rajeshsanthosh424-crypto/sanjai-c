@@ -1,0 +1,6 @@
+{
+  "name": "Lost & Found – Smart Item Recovery System",
+  "description": "AI-powered lost and found item recovery platform with multimodal image matching, natural language search, map-based proximity filtering, and secure claim verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
